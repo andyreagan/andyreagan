@@ -1,7 +1,8 @@
 <div align="center">
 
-<h1>Hi there, I'm <a href="https://andyreagan.com">Andy</a> 👋</h1>
+# Hi there, I'm [Andy](https://andyreagan.com) 👋
 
-<img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20" />
+* ![Pronouns](https://img.shields.io/badge/pronouns-he%2Fhim-blue)
+* Github user 3,012,361.
 
 </div>
